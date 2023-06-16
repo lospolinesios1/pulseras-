@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nikebrazalet</title>
+</head>
+<body>
+    
+ <h1>Contacto</h1>
+ <p>Telefono</p>
+ <a target="_blank" href="mail:229-947-3458">229-947-3458</a>
+
+ <h1>Atencion a cliente</h1>
+ <p>lugar en donde nos encontramos</p>
+ <p>nos ubicamos en polanco en la plaza:Palacio de hierro polanco a lado de la sucursal de pandora y maestros joyelloros</p>
+ <img src="polanco.jpg.png" alt="polanco" width="220px">
+
+ <h1>Quejas</h1>
+ <p>si tienes alguna duda o queja no te olvides de mandarnos un mensaje o un correo electronico</p>
+ <a href="mailto:Nikebrazaletquejas@.com.mx">Nikebrazaletquejas@gmail.com.mx</a> 
+ 
+ <h1>envios</h1>
+ <p>si no vives en mexico nos puedes mandar un correo electronico para enviarle su producto en cual quier parte del pais</p>
+ <a href="mailto:Nikebrazaletenvios@gmail.com.mx">Nikebrazaletenvios@gmail.com.mx</a>
+
+ <h1>Horarios de entega</h1>
+ <p>Los horios de entrega son de las 10:30 am a 5:30 pm</p>
+ <img src="entregas.jpg" alt="entregas">
+
+</body>
+</html>
